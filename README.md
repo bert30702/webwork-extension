@@ -1,9 +1,6 @@
 # webwork-extension
 adds correct ratio for each homework.
 
-Webwork Extension
-=====
-
 ![](https://www.csie.ntu.edu.tw/~b08902102/extension/screenshot.png)
 
 ---
