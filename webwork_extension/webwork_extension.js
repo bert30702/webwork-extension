@@ -10,7 +10,7 @@
         })
         return m;
     }
-    let grades_html = await (await fetch("grades/")).text();
+    let grades_html = await (await fetch(location.href + "grades/")).text();
     let map = getGrade(grades_html);
     document.querySelectorAll('a[class=set-id-tooltip]').forEach(function(ele) {
         // to hide score in closed problems, please uncomment the statement below
