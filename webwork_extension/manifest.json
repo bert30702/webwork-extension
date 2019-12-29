@@ -2,7 +2,7 @@
 
   "manifest_version": 2,
   "name": "webwork_extension",
-  "version": "1.2",
+  "version": "1.6",
 
   "description": "Adds correct ratio to each homework.",
 
